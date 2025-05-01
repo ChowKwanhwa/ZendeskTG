@@ -1,7 +1,7 @@
 {
   "webhook": {
     "name": "Telegram Bot Webhook",
-    "endpoint_url": "https://565d-240e-3b2-987b-b4b0-40b7-a5b4-1163-74c1.ngrok-free.app",
+    "endpoint_url": "https://33d1-240e-3b2-987b-b4b0-40b7-a5b4-1163-74c1.ngrok-free.app/webhook",
     "http_method": "POST",
     "request_format": "json",
     "subscriptions": ["conditional_ticket_events"]
