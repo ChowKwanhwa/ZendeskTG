@@ -2,7 +2,7 @@
   "target": {
     "title": "Telegram Bot Target",
     "type": "http_target_v2",
-    "target_url": "https://3e73-240e-3b1-9862-7230-50d3-3a92-48db-e959.ngrok-free.app/webhook",
+    "target_url": "https://565d-240e-3b2-987b-b4b0-40b7-a5b4-1163-74c1.ngrok-free.app/webhook",
     "method": "post",
     "content_type": "application/json",
     "username": "",
